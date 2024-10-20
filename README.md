@@ -69,22 +69,12 @@ This plot helps us understand the distribution of features and how they vary bet
 
 ## Requirements
 
-To run this project, you need to install the following Python libraries:
+To run this project, need following Python libraries:
 
 - Pandas
 - Matplotlib
 - Seaborn
 - Scikit-learn
-
-You can install the necessary libraries using the following command:
-
-```bash
-pip install pandas matplotlib seaborn scikit-learn
-```
-
-## Running the Notebook
-
-This project can be run on Google Colab or any local Jupyter Notebook environment. You can directly access the notebook from [Google Colab](https://colab.research.google.com/drive/1fHDc61dYR6bPaxJ4B1g0hC6lk71bta99).
 
 ## Conclusion
 
